@@ -1,0 +1,7 @@
+{
+  "usingComponents": {},
+  "navigationBarTitleText": "cartoon-store",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "navigationStyle": "custom"
+}
